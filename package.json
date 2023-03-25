@@ -1,0 +1,18 @@
+{
+	"name": "worden",
+	"author": "Drew Worden",
+	"description": "A personal portfolio dedicated to showcasing the work of Drew Worden.",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-vercel": "^2.4.1",
+		"@sveltejs/kit": "^1.5.0",
+		"svelte": "^3.54.0",
+		"vite": "^4.2.0"
+	}
+}
